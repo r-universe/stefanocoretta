@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rticulate"]
+	path = rticulate
+	url = https://github.com/stefanocoretta/rticulate
+	shallow = true
+	registered = true
+[submodule "speakr"]
+	path = speakr
+	url = https://github.com/stefanocoretta/speakr
+	shallow = true
+	registered = true
+[submodule "tidymv"]
+	path = tidymv
+	url = https://github.com/stefanocoretta/tidymv
+	shallow = true
+	registered = true

@@ -1,0 +1,14 @@
+[
+  {
+    "package": "rticulate",
+    "oncran": true
+  },
+  {
+    "package": "speakr",
+    "oncran": true
+  },
+  {
+    "package": "tidymv",
+    "oncran": true
+  }
+]
