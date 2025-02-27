@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "phonetisr"]
+	path = phonetisr
+	url = https://github.com/stefanocoretta/phonetisr
 [submodule "rticulate"]
 	path = rticulate
 	url = https://github.com/stefanocoretta/rticulate
