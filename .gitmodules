@@ -14,6 +14,3 @@
 [submodule "tidygam"]
 	path = tidygam
 	url = https://github.com/stefanocoretta/tidygam
-[submodule "tidymv"]
-	path = tidymv
-	url = https://github.com/stefanocoretta/tidymv
